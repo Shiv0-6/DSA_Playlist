@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
+## String
+|  |
+| ------- |
+| [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
 <!---LeetCode Topics End-->
