@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minDeletionSize(vector<string>& strs) {
+    int minDeletionSize(vector<string>& strs) {// Using DP
         int n = strs.size();          // number of strings (rows)
         int m = strs[0].size();       // length of each string (columns)
 
