@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1470-shuffle-the-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1929-concatenation-of-array) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sorting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
