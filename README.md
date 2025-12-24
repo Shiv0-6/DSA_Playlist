@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1470-shuffle-the-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1929-concatenation-of-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
