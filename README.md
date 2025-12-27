@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1470-shuffle-the-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
 ## String
 |  |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
