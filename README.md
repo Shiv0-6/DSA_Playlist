@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3606-coupon-code-validator) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3433-count-mentions-per-user) |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2483-minimum-penalty-for-a-shop) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
