@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3583-count-special-triplets) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
