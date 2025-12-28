@@ -19,11 +19,6 @@
 // };
 
 // Sorting + Hash map
-#include <vector>
-#include <algorithm>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
