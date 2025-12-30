@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0756-pyramid-transition-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2402-meeting-rooms-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/Shiv0-6/DSA_Playlist/tree/master/3531-count-covered-buildings) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0756-pyramid-transition-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
