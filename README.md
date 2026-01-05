@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Shiv0-6/DSA_Playlist/tree/master/0756-pyramid-transition-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shiv0-6/DSA_Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
