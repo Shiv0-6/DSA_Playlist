@@ -1,0 +1,30 @@
+/**
+ * Problem: 79. Word Search
+ * Difficulty: Medium
+ * LeetCode: https://leetcode.com/problems/word-search/
+ * 
+ * Solution
+ */
+
+class Solution {class Solution {
+public:public:
+    bool exist(vector<vector<char>>& board, string word) {    bool exist(vector<vector<char>>& board, string word) {
+        int m = board.size();        int m = board.size();
+        int n = board[0].size();        int n = board[0].size();
+                
+        // Start DFS from every cell in the grid        // Start DFS from every cell in the grid
+        for (int i = 0; i < m; ++i) {        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {            for (int j = 0; j < n; ++j) {
+                // If the first character matches, attempt to find the full word                // If the first character matches, attempt to find the full word
+                if (dfs(board, word, i, j, 0)) {                if (dfs(board, word, i, j, 0)) {
+                    return true;                    return true;
+                }                }
+            }            }
+        }        }
+        return false;        return false;
+    }    }
+        
+private:private:
+    bool dfs(vector<vector<char>>& board, const string& word, int i, int j, int index) {    bool dfs(vector<vector<char>>& board, const string& word, int i, int j, int index) {
+        // Base case: If we've matched all characters, the word is found        // Base case: If we've matched all characters, the word is found
+        if (index == word.length()) {        if (index == word.length()) {
